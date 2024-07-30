@@ -13,7 +13,7 @@ First of all this is academic project, made using modern C++17 and above. In thi
 7. ADMIN PANEL (BAN/UNBAN users)
 
 ## ADMIN INFO
-Login: admin
+Login: admin <br>
 Password: admin
 
 ## Future of this project
